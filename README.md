@@ -35,7 +35,7 @@ The dashboard is designed as a **business intelligence solution** for decision m
   - Conditional Formatting for trend highlighting  
   - Raw Data → Pivot Report → Dashboard Workflow  
 
-*(Future version may include Power BI, SQL integration, or Python for automation)*  
+
 
 ---
 
@@ -85,11 +85,9 @@ The dashboard is built using a **3-layer structure**:
 ---
 
 ## 👨‍💻 Author  
-**Ariful**  
-- 💼 Data Analyst Enthusiast | BI Developer  
-- 🔗 [LinkedIn Profile](#)  
-- 📧 your.email@example.com  
+**Ariful Islam**  
+- 💼 Data Analyst Enthusiast | BI Developer   
+- 📧Email : arifkhan.nsd14@gmail.com
 
----
 
-⭐ If you like this project, don’t forget to give it a **star** on GitHub!  
+
