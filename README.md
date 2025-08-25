@@ -67,7 +67,7 @@ The dashboard is built using a **3-layer structure**:
 ---
 
 ## 📸 Dashboard Preview  
- - <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
+ - <a href="[https://github.com/arifkhan868/Adventure-Work-Sales-Dashboard/blob/main/Dashboard.PNG](https://github.com/arifkhan868/Interactive-Excel-Dashboard/blob/main/Dashboard.PNG)">View Dashboard</a>
 
 ---
 
