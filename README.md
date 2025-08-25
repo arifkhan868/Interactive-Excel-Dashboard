@@ -67,9 +67,7 @@ The dashboard is built using a **3-layer structure**:
 ---
 
 ## 📸 Dashboard Preview  
-<p align="center">
-  <img src="dashboard-preview.png" alt="Sales Dashboard" width="700">
-</p>  
+ - <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
 
 ---
 
